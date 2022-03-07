@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1607712701 source:c:\users\caioi\onedrive\햞ea de trabalho\caio\ead\ed1\trab2_ed1\trabalho_2\estacionamento.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estacionamento.h"
+
+1607712245 c:\users\caioi\onedrive\햞ea de trabalho\caio\ead\ed1\trab2_ed1\trabalho_2\estacionamento.h
+
+1607712908 source:c:\users\caioi\onedrive\햞ea de trabalho\caio\ead\ed1\trab2_ed1\trabalho_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Estacionamento.h"
+
+1607716410 source:c:\users\caioi\onedrive\햞ea de trabalho\trabalho_2\estacionamento.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Estacionamento.h"
+
+1607713120 c:\users\caioi\onedrive\햞ea de trabalho\trabalho_2\estacionamento.h
+
+1607713120 source:c:\users\caioi\onedrive\햞ea de trabalho\trabalho_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Estacionamento.h"
+
